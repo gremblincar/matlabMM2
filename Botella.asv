@@ -1,0 +1,5 @@
+f=inline(x)
+f=inline(3x+1)
+f=inline(-2x+3)
+plot(x,y)
+
